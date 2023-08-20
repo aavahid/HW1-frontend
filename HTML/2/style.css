@@ -1,0 +1,32 @@
+label {
+    display: inline-block;
+    width: 150px; 
+    text-align: right;
+    margin-right: 10px;
+    margin-left: -30px;
+}
+
+input {
+    border-color: rgb(31, 147, 214);
+    width: 175px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+option{
+
+    width: 150px;
+    height: 140px;
+}
+#sumbit{
+    
+    color:black;
+    width: 300px;
+    height:45px;
+    margin-top:4px;
+}
+#country{
+    border: 2px solid rgb(31, 147, 214);
+    
+    width:200px;
+    margin-bottom: 4px;
+}
