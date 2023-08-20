@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(172, 172, 172);
+}
+div h1{
+    font-weight: normal;
+    color: red;
+}
+#albums {
+    font-weight: normal;
+}
